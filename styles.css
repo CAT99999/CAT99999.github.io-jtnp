@@ -3,13 +3,13 @@ body {
   }
 
 a {
-  color:Orange;
+  color:Orange; text-align: center;
    }
 
 p {
-  color:Lime;
+  color:Lime; text-align: center;
   }
 
 h1 {
-  color:DarkCyan;
+  color:DarkCyan; text-align: center;
   }
