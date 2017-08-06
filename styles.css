@@ -15,7 +15,7 @@ h1 {
   }
 
 li {
-  color:lime; text-align: center
+  color:lime; text-align: center;
   }
 
-li .ridge {border-style: ridge;}
+a .ridge {border-style: ridge;}
