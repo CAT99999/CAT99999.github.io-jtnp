@@ -17,3 +17,5 @@ h1 {
 li {
   color:lime; text-align: center
   }
+
+b.ridge {border-style: ridge;}
