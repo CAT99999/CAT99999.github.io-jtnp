@@ -12,7 +12,7 @@ p {
 
 h1 {
   color:DarkCyan; 
-
-li {
+  
+ ul.a {
   border-style: ridge;
   }
