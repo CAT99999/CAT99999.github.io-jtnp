@@ -3,19 +3,17 @@ body {
   }
 
 a {
-  color:Orange; text-align: center;
+  color:Orange;
    }
 
 p {
-  color:Lime; text-align: center;
+  color:Lime;
   }
 
 h1 {
-  color:DarkCyan; text-align: center;
-  }
-
+  color:DarkCyan; 
 li {
-  color:Lime; text-align: center;
+   color:Lime;
   }
 
 a .ridge {border-style: ridge;}
