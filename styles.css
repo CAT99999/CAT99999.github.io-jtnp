@@ -18,4 +18,4 @@ li {
   color:lime; text-align: center
   }
 
-body.ridge {border-style: ridge;}
+li .ridge {border-style: ridge;}
