@@ -23,20 +23,32 @@ h1 {
     height: 500px;
     text-align: center;
 }
-#about {
+
+#joshuatrees {
     background-color: yellow;
     padding: 20px;
 }
 
-#peter {
+#rocks {
     background-color: green;
     padding: 20px;
 }
 
-#alexia {
+#animals {
     background-color: purple;
     padding: 20px;
 }
+
+#climate {
+    background-color: purple;
+    padding: 20px;
+}
+
+#animals {
+    background-color: purple;
+    padding: 20px;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
