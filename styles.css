@@ -13,3 +13,51 @@ p {
 h1 {
   color:DarkCyan; 
   }
+
+#home {
+    background-image: url("https://goo.gl/images/ndG9cE");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+    padding: 20px;
+    height: 500px;
+    text-align: center;
+}
+#about {
+    background-color: yellow;
+    padding: 20px;
+}
+
+#peter {
+    background-color: green;
+    padding: 20px;
+}
+
+#alexia {
+    background-color: purple;
+    padding: 20px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+    overflow: hidden;
+    background-color: #333;
+}
+
+ul li {
+    float: left;
+}
+
+ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+ul li a:hover {
+    background-color: #111;
+}
